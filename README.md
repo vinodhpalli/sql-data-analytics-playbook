@@ -10,10 +10,5 @@ This repository documents my SQL learning journey with structured problems and r
 - Subqueries
 - Window Functions
 
-## 📂 Structure
-- Basics → fundamentals
-- Intermediate → real queries
-- Advanced → case studies
-
 ## 🚀 Goal
 To become a Data Analyst with strong SQL skills.
